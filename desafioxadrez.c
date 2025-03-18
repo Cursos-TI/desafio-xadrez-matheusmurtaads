@@ -51,7 +51,7 @@ int main() {
     int opcao;
     
     do {
-        printf("\n=== Desafio de Xadrez - MateCheck! ===\n");
+        printf("\n=== Desafio de Xadrez - MateCheck ===\n");
         printf("1 - Movimentação do Bispo\n");
         printf("2 - Movimentação da Torre\n");
         printf("3 - Movimentação da Rainha\n");
